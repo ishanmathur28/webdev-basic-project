@@ -1,0 +1,22 @@
+body{
+  background-color:#F5EDDC;
+}
+hr{
+/*  background-color: white;  no use since height=0*/
+  border-style :none;
+  border-top-style:dotted;
+/* or  border-style: dotted none none;*/
+ border-color:grey;
+ border-width:10px;
+  height:0px;
+  width:30%;
+}
+img{
+  height:500px;
+}
+h1{
+  color:#7FFFD4;
+}
+h3{
+  color:#7FFFD4;
+}
